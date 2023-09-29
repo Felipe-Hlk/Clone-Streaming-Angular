@@ -1,0 +1,20 @@
+.navbar{
+  backdrop-filter: blur(4px);
+  background: rgba(0,0,0,0.5);
+  }
+  .navbar .navbar-brand{
+  color: #e55d09;
+  font-weight: bold;
+  font-size: 2rem;
+  text-shadow: 2px 2px 3px #000;
+
+  }
+  .navbar-nav .nav-item .nav-link{
+  color: #e55d09;
+  font-size: 1.3rem;
+  text-shadow: 1px 1px 2px #000;
+  }
+
+  span{
+    color: rgb(212, 237, 255);
+  }
